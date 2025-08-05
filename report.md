@@ -39,4 +39,4 @@ Test Accuracy: 65.00%
 | Full transfer learning  | 97.35%    |
 | Sub-network (100 layers)| 65.00%    |
 
-Transfer learning achieved 97.35% accuracy by training only a small fraction of the total parameters, demonstrating the effectiveness of pre-trained features for domain-specific tasks.
+Transfer learning achieved 97.35% accuracy by training only a small fraction of the total parameters. These are very good results.
