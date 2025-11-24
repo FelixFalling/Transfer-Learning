@@ -1,5 +1,3 @@
-# CS 4/510 Programming Assignment #3: Transfer Learning
-
 ## My experiments
 It took me quite a while to get this assignment done since it turns out there are a lot of prerequisites to use the tensorflow on my computer.
 First real big issue that I ran into was that I had to install the tensorflow version 2.12.0, since the latest version 2.14.0 is not compatible with my RTX 5080 GPU.
